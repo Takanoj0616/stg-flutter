@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977677125161",
+    "project_id": "stg-ctm-09",
+    "storage_bucket": "stg-ctm-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977677125161:android:9367206ac17951ef07be38",
+        "android_client_info": {
+          "package_name": "com.stg.ctm_main_android.ctm_09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_ypWgLcei7PG_Wo6jDWhjzUL9shNcec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
