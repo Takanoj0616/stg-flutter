@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
     appId: '1:977677125161:android:9367206ac17951ef07be38',
     messagingSenderId: '977677125161',
     projectId: 'stg-ctm-09',
-    storageBucket: 'stg-ctm-09.appspot.com',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '977677125161',
     projectId: 'stg-ctm-09',
     storageBucket: 'stg-ctm-09.appspot.com',
-    iosBundleId: 'com.stg.ctmmainandroid.ctm09',
+    iosBundleId: '',
   );
 }

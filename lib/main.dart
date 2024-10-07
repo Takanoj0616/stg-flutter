@@ -185,8 +185,8 @@ class _WebViewAppState extends State<WebViewApp> {
           onHttpAuthRequest: (HttpAuthRequest request) {
             request.onProceed(
               const WebViewCredential(
-                user: 'ctm',
-                password: 'ctm777',
+                user: '',
+                password: '',
               ),
             );
           },
